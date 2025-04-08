@@ -4,7 +4,7 @@
     <div class="w-full rounded-2xl overflow-hidden shadow-md border bg-white">
       <div class="relative">
         <img
-          src="../assets/hero-bg.png"
+          src="/assets/hero-bg.png"
           alt="Guide"
           class="w-full h-[400px] object-cover"
         />

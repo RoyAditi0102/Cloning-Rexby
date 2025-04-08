@@ -6,6 +6,7 @@ import ThingsToDo from './components/ThingsToDo.vue'
 import ItinerarySection from './components/ItinerarySection.vue'
 import BookingPageSection from './components/BookingPageSection.vue'
 import FooterSection from './components/FooterSection.vue'
+import FooterFAQ from './components/FooterFAQ.vue'
 </script>
 
 <template>
@@ -17,5 +18,6 @@ import FooterSection from './components/FooterSection.vue'
     <ItinerarySection />
     <BookingPageSection />
     <FooterSection />
+    <FooterFAQ />
   </div>
 </template>

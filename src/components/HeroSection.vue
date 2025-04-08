@@ -3,7 +3,7 @@
     <!-- 🖼️ Left Image -->
     <div class="flex justify-center">
       <img
-        src="../assets/hero-bg.png"
+        src="/assets/hero-bg.png"
         alt="Norway Landscape"
         class="rounded-2xl shadow-lg object-cover max-w-[360px] aspect-[3/4]"
       />
@@ -18,7 +18,7 @@
       <!-- 👤 Guide Info -->
       <div class="flex items-center flex-wrap gap-2 text-gray-600 text-sm mb-4">
         <img
-          src="../assets/profile.png"
+          src="/assets/profile.png"
           alt="Profile"
           class="w-9 h-9 rounded-full"
         />

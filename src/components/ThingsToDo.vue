@@ -42,31 +42,31 @@
 import { Camera, MapPin, Mountain, Binoculars } from 'lucide-vue-next';
 const cards = [
   {
-    image: '../assets/card-item-1.png',
+    image: '/assets/card-item-1.png',
     type: 'Sightseeing',
     icon: Binoculars,
     title: 'One of my favourite spots'
   },
   {
-    image: '../assets/card-item-2.png',
+    image: '/assets/card-item-2.png',
     type: 'Sightseeing',
     icon: Binoculars,
     title: 'Swing with amazing views'
   },
   {
-    image: '../assets/card-item-3.png',
+    image: '/assets/card-item-3.png',
     type: 'Hike',
     icon: Mountain,
     title: 'Beautiful view point'
   },
     {
-    image: '../assets/card-item-4.png',
+    image: '/assets/card-item-4.png',
     type: 'Sightseeing',
     icon: Binoculars,
     title: 'Walk around a beautiful old fishing town'
   },
     {
-    image: '../assets/card-item-5.png',
+    image: '/assets/card-item-5.png',
     type: 'Photospot',
     icon: Camera,
     title: 'Perfect drone Place'

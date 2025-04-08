@@ -7,7 +7,7 @@
 
     <div class="rounded-xl overflow-hidden shadow-lg">
       <img
-        src="../assets/static-map.png"
+        src="/assets/static-map.png"
         alt="Static Interactive Map"
         class="w-full object-cover max-h-[500px]"
       />

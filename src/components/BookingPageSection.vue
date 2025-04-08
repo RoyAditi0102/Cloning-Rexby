@@ -38,27 +38,27 @@ import { ref } from 'vue';
 // Sample booking data
 const bookings = ref([
   {
-    image: '../assets/active-geiranger.jpg',
+    image: '/assets/active-geiranger.jpg',
     type: 'Activity',
     title: 'Active Geiranger',
   },
   {
-    image: '../assets/jolstraholmen-camping.jpg',
+    image: '/assets/jolstraholmen-camping.jpg',
     type: 'Stay',
     title: 'Jølstraholmen Camping & Cottages',
   },
   {
-    image: '../assets/floating-sauna.jpg',
+    image: '/assets/floating-sauna.jpg',
     type: 'Sauna',
     title: 'Floating Sauna Fjaerland',
   },
   {
-    image: '../assets/a-camp.jpg',
+    image: '/assets/a-camp.jpg',
     type: 'Camp',
     title: 'Å camp',
   },
   {
-    image: '../assets/manhausen.jpg',
+    image: '/assets/manhausen.jpg',
     type: 'Resort',
     title: 'Manshausen',
   },

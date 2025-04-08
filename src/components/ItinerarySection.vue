@@ -23,7 +23,7 @@
       <!-- 2️⃣ Image Card -->
 <div class="w-[240px] h-[340px] bg-white rounded-2xl overflow-hidden shadow-md relative shrink-0">
   <img
-    src="../assets/lofoten.jpg"
+    src="/assets/lofoten.jpg"
     alt="Lofoten Road Trip"
     class="w-full h-full object-cover"
   />
