@@ -25,7 +25,7 @@
         <template v-else>
           <div class="flex items-center gap-2">
             <img
-              src="../assets/rexby-logo.png"
+              src="/assets/rexby-logo.png"
               alt="Rexby Logo"
               class="h-8 w-auto"
               aria-hidden="true"
