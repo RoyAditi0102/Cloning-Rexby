@@ -1,4 +1,10 @@
 <template>
+  <div class="text-left mt-10">
+      <h2 class="text-3xl font-bold text-gray-800 mb-2">Interactive Map</h2>
+      <p class="text-lg text-gray-500">
+        Get an Interactive, playful and visually appealing map that helps you navigate the noise
+      </p>
+  </div>
   <div class="mt-10 w-full md:w-3/4 lg:w-2/3 mx-auto rounded-xl shadow-md overflow-hidden">
     <div class="relative w-full" style="height: 350px;">
       <LMap
